@@ -48,6 +48,10 @@ main {
     overflow-y: auto !important;
 }
 
+.goodstuff {
+  position: absolute !important;
+}
+
 .panel {
   min-height: 75vh;
 }
